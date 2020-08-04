@@ -1,3 +1,5 @@
+[![made-with-VSCode](https://img.shields.io/badge/Made%20With-CodeLite-brightgreen)]
+
 # First C++ Program
 
 <img src="./assets/readmeImg.png"
