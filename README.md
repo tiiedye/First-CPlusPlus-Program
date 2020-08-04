@@ -1,4 +1,4 @@
-# First-CPlusPlus-Program
+# First C++ Program
 
 <img src="./assets/readmeImg.png"
      alt="Img"
